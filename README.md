@@ -3,7 +3,7 @@
 I built a system for Benign or Malignant cancer classification based on various features. On the given dataset, KNN performed better than SVM possibly signifying that the dataset is not linearly separable (there could be other reasons also, like, outliers in the data set). This conforms to what scatter plot of features from dataset showed.
 
 # Major Dependencies
-Dependencies
+* Dependencies
 Python > 2.7
 Scikit Learn package
 Pandas toolkit 
