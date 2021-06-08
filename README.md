@@ -49,6 +49,9 @@ Further, the normalized confusion matrix is plotted, which shows that using the 
 
 # SVM Classification Model
 Support Vector Machine” (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges. However,  it is mostly used in classification problems. In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is the number of features in the dataset) with the value of each feature being the value of a particular coordinate. Then, we perform classification by designing a hyperplane that classifies all training vectors in two classes very well. In d dimensional space the hyperplane is d-1 separator. Hence, in 2D space the hyperplane is a 1 dimensional line and in 3 dimensional space the hyperplane is a 2 D plane.
+
+![Graphical Representation of SVM Model](https://github.com/pragyas03/kNN-and-SVM-Classification-Models-on-Breast-Cancer-Wisconsin-Diagnostic-Dataset/blob/main/SVM.png)
+
 Further, the normalized confusion matrix is plotted, which shows that using the SVM model the accuracy of the prediction of the malignant class is around 89% and for the benign class around 99%.
 
 # Evaluation of kNN and SVM Models
